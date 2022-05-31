@@ -2,6 +2,11 @@
 
 🦸 🦸‍♂️ `Stop starting and start finishing.` 🏁
 
+//header 1 will be hello
+//header 2 will be my name is
+//only input will be name entry under second header
+//event will be name entry
+
 1. Limit Work in Progress (WIP)
 1. Validate each line of code before moving forward
 1. Keep it Simple Simon (KISS)

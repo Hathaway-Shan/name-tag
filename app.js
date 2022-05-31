@@ -1,5 +1,6 @@
 // grab DOM elements
-
+const nameInput = document.getElementById('name-input');
+console.log('name-input');
 
 // set event listeners
     // get info from user input

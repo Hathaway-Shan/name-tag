@@ -33,6 +33,7 @@ footer {
     text-align: center;
     padding-top: 10px;
     padding-bottom: 20px;
+    border-radius: 25px;
 }
 span {
     display: block;
@@ -47,12 +48,16 @@ span {
 
 #introduction {
     color: white;
-    padding-top: 10px;
+}
+#pronouns {
+    color: white;
+    padding-bottom" 10px;
 }
 #name-display {
     background: white;
     padding-top: 20px;
     padding-bottom: 20px;
     font-family: cursive;
+    min-height: 30px;
 }
 

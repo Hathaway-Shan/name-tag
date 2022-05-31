@@ -10,4 +10,5 @@ nameInput.addEventListener('input', () => {
 });
 // set event listeners
     
+const pronouns = document.getElementById('prounouns');
     

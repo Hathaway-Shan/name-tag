@@ -1,6 +1,7 @@
 // grab DOM elements
 const nameInput = document.getElementById('name-input');
 // get info from user input
+console.log(nameInput)
 const nameDisplay = document.getElementById('name-display');
 nameInput.addEventListener('input', () => {
     const name = nameInput.value;

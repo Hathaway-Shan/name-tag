@@ -10,7 +10,7 @@ nameInput.addEventListener('input', () => {
     const name = nameInput.value;
     // use user input to update state
     nameDisplay.textContent = name;
-    
+    console.log(nameDisplay.textContent)
     // update DOM to reflect the new state
 });
 // set event listeners
